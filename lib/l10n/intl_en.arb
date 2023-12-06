@@ -1,0 +1,27 @@
+{
+
+  "loginScreenTitlePartOne": "Log" ,
+  "loginScreenTitlePartTwo": " In" ,
+  "loginScreenDescription": "login to unlock exclusive styles and personalized recommendation" ,
+  "loginScreenEmail" : "Email" ,
+  "username" : "Username" ,
+  "loginScreenPass" : "password" ,
+  "loginScreenButton" : "Login" ,
+  "loginScreenHaveNotAccount" : "Don't have an account ? " ,
+  "loginScreenCreateAccount" : "create account" ,
+  "loginScreenForgetPass" : "Forget Password ?",
+  "registerScreenTitlePartOne": "Sign" ,
+  "registerScreenTitlePartTwo": " Up" ,
+  "registerScreenHaveAccount" : "Already have an account ? " ,
+  "registerScreenButton" : "Sign Up" ,
+  "registerScreenDescription": "Sign up now to receive a special discount on your first purchase" ,
+  "search": "Search" ,
+  "brands" : "Brands" ,
+  "health": "Healthy App",
+  "desc": "A food health app can help you maintain a healthy lifestyle by enabling you to track your food intake, find restaurants suitable for your dietary needs" ,
+  "getStarted": "Get Started",
+  "Category": "Category",
+  "Favourite": "Favourite",
+  "Cart": "Cart",
+  "Profile": "Profile"
+}

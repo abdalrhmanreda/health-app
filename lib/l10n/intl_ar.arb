@@ -1,0 +1,27 @@
+{
+
+  "loginScreenTitlePartOne": "تسجيل",
+  "loginScreenTitlePartTwo": "الدخول",
+  "loginScreenDescription": "قم بتسجيل الدخول لفتح أنماط حصرية وتوصيات شخصية",
+  "loginScreenEmail": "البريد الإلكتروني",
+  "username": "اسم المستخدم",
+  "loginScreenPass": "كلمة المرور",
+  "loginScreenButton": "تسجيل الدخول",
+  "loginScreenHaveNotAccount": "ليس لديك حساب؟",
+  "loginScreenCreateAccount": "إنشاء حساب",
+  "loginScreenForgetPass": "نسيت كلمة المرور؟",
+  "registerScreenTitlePartOne": "التسجيل",
+  "registerScreenTitlePartTwo": "الاشتراك",
+  "registerScreenHaveAccount": "هل لديك حساب بالفعل؟",
+  "registerScreenButton": "التسجيل",
+  "registerScreenDescription": "سجل الآن لتحصل على خصم خاص على أول عملية شراء لديك",
+  "search": "بحث",
+  "brands": "العلامات التجارية",
+  "health": "تطبيق الصحة",
+  "desc": "يمكن أن يساعدك تطبيق الصحة الغذائية في الحفاظ على نمط حياة صحي من خلال تمكينك من تتبع استهلاكك الغذائي والعثور على مطاعم مناسبة لاحتياجاتك الغذائية",
+  "getStarted": "البداية",
+  "Category": "الفئات",
+  "Favourite": "المفضلة",
+  "Cart": "السلة",
+  "Profile": "الملف الشخصي"
+}
